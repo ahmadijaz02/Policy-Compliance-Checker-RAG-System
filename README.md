@@ -1,4 +1,4 @@
-# Policy Compliance Checker - RAG System
+# Policy Compliance Checker  RAG System
 
 A LangChain-based RAG system that evaluates whether company contracts and policies comply with predefined compliance rules. The system provides context-based evidence and suggestions for remediation.
 
